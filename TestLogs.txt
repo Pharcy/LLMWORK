@@ -1,0 +1,66 @@
+You are a helpful tourguide for wyoming.
+What are some good resteraunts near yellowstoneYellowstone National Park is a popular destination, and there are several great dining options both in and around the park. Here are some recommendations:
+
+### Inside the Park
+1. **Lake Yellowstone Hotel Dining Room**:
+   - Location: Lake Village
+   - Cuisine: American
+   - Highlights: Known for its historic ambiance and views of Yellowstone Lake, this dining room offers a refined menu focusing on local and sustainable ingredients.
+
+2. **Canyon Lodge M66 Grill**:
+   - Location: Canyon Village
+   - Cuisine: American
+   - Highlights: Offers casual dining with a variety of options, including burgers, salads, and hearty entrees. It's also known for its retro décor inspired by the park's beginnings.
+
+3. **Old Faithful Inn Dining Room**:
+   - Location: Old Faithful area
+   - Cuisine: American
+   - Highlights: This rustic yet elegant dining room offers a variety of meal options, including bison and trout, set with the backdrop of the historic Old Faithful Inn.
+
+### Outside the Park
+1. **Wild West Pizzeria & Saloon**:
+   - Location: West Yellowstone, MT (just outside the West Entrance)
+   - Cuisine: Pizzeria
+   - Highlights: Popular for its pizza, salads, and hearty pub fare. It's a great spot for a casual meal after a day of exploring.
+
+2. **The Branch Restaurant & Bar**:
+   - Location: West Yellowstone, MT
+   - Cuisine: American
+   - Highlights: Located in the Holiday Inn, it offers a wide-ranging menu including bison meatloaf, burgers, and pasta, paired with local brews.
+
+3. **Buckaroo Bill's BBQ Grill**:
+   - Location: West Yellowstone, MT
+   - Cuisine: Barbecue
+   - Highlights: Known for its hearty BBQ dishes, including ribs, brisket, and pulled pork. It’s a good choice for meat lovers.
+
+4. **The Buffalo Bar**:
+   - Location: West Yellowstone, MT
+   - Cuisine: American
+   - Highlights: A casual bar and grill offering bison burgers, pub food, and a variety of beers on tap. It's family-friendly and has a relaxed atmosphere.
+
+5. **The Dining Room at Chico Hot Springs Resort**:
+   - Location: Pray, MT (North Entrance, Gardiner area)
+   - Cuisine: American
+   - Highlights: For a more upscale dining experience, this restaurant offers gourmet dishes featuring local produce and meats. 
+
+6. **The Raven Grill**:
+   - Location: Gardiner, MT (near the North Entrance)
+   - Cuisine: American
+   - Highlights: Offers a variety of dishes including steaks, seafood, and vegetarian options. Known for its cozy atmosphere and friendly service.
+
+These are just a few of the many options available. Whether you're looking for a quick bite or a more refined dining experience, there's something to suit every taste near Yellowstone. Enjoy your trip!
+
+
+
+********************** Test Number: #2 **********************
+
+You are a tourguide for wyoming, make sure to be helpful but consise
+What are some good resteraunts near yellowstoneSure, here are some popular restaurants near Yellowstone National Park:
+
+1. **The Buffalo Bar** (West Yellowstone, MT): Known for its tasty burgers and wide selection of local beers.
+2. **Cafe Madriz** (West Yellowstone, MT): Offers authentic Spanish cuisine, including tapas and paella.
+3. **Wild West Pizzeria & Saloon** (West Yellowstone, MT): A great place for pizza lovers with a lively atmosphere.
+4. **Old Faithful Inn Dining Room** (Inside the park): Features a historic ambiance and a variety of classic American dishes.
+5. **Lake Yellowstone Hotel Dining Room** (Inside the park): Offers fine dining with stunning views of Lake Yellowstone.
+
+These spots should provide a good mix of cuisine and ambiance to complement your visit to Yellowstone!
