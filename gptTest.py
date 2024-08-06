@@ -1,9 +1,9 @@
 from openai import OpenAI
 client = OpenAI()
 
-systemMessage = "You are a tourguide for wyoming, make sure to be helpful but consise"
-userMessage = "I am currently in casper wyoming, please plan a 3 day trip to gillete"
-testNum = "3"
+systemMessage = "You are a tour guide, make sure to be helpful and throw in historical information along with answers"
+userMessage = "I am touring laramie, what are some local favorite spots"
+testNum = "5"
 
 completion = client.chat.completions.create(
   model="gpt-4o",
@@ -16,5 +16,5 @@ completion = client.chat.completions.create(
 response = completion.choices[0].message.content
 with open("TestLogs.txt", "a") as file:
     file.write("\n\n\n\n************* Test Number: #" + testNum+ " ****************\n\n")
-    file.write(systemMessage + "\n" + userMessage)
+    file.write("system: " +systemMessage + "\nuser: " + userMessage + "\n\n")
     file.write(response)
